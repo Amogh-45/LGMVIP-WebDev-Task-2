@@ -1,0 +1,51 @@
+const data = [
+    {
+      id: 1,
+      email: 'mayurdev@gmail.com',
+      user_info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit.',
+      first_name: 'Mayur',
+      last_name: 'Dev',
+      avatar:'https://source.unsplash.com/D9HRdD46K0o/900x900',
+    },
+    {
+      id: 2,
+      email: 'mdscaping@gmail.com',
+      user_info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit.',
+      first_name: 'MD',
+      last_name: 'Scaping',
+      avatar: 'https://source.unsplash.com/C8Ta0gwPbQg/900x900',
+    },
+    {
+      id: 3,
+      email: 'subinmathews@gmail.com',
+      user_info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit.',
+      first_name: 'Subin',
+      last_name: 'Mathews',
+      avatar: 'https://source.unsplash.com/iFgRcqHznqg/900x900',
+    },
+    {
+      id: 4,
+      email: 'robin6@gmail.com',
+      user_info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit.',
+      first_name: 'Rodin',
+      last_name: 'Kagisko',
+      avatar: 'https://source.unsplash.com/s2OisyY9YGU/900x900',
+    },
+    {
+      id: 5,
+      email: 'jh4510@gmail.com',
+      user_info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit.',
+      first_name: 'Jordyn',
+      last_name: 'Huitema',
+      avatar: 'https://source.unsplash.com/_H6wpor9mjs/900x900',
+    },
+    {
+      id: 6,
+      email: 'pokimane@gmail.com',
+      user_info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit.',
+      first_name: 'Jon-siu',
+      last_name: 'Goen',
+      avatar: 'https://source.unsplash.com/e4aUQWMXaJs/900x900',
+    },
+  ];
+  export default data;
